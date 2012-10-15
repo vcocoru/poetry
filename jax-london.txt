@@ -1,3 +1,5 @@
 I learnt lots of cool things about Git at the Jax London 2012 workshop.
 
+I wonder what else I can learn at Jax London
+
 Thank you.
