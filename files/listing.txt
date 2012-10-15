@@ -14,11 +14,11 @@ drwxr-xr-x    8 tlberglund  staff   272 Sep 27 13:29 Tools
 drwxr-xr-x  113 tlberglund  staff  3842 Oct 11 00:18 codes
 drwxr-xr-x    3 tlberglund  staff   102 Aug 10 18:36 eclipse-workspace
 drwxr-xr-x   23 tlberglund  staff   782 Oct 12 20:46 github
--rw-r--r--    1 tlberglund  staff   867 Oct 15 11:28 jax-git-workshop.md
+-rw-r--r--    1 tlberglund  staff   867 Oct 15 11:28 mypasswordis_xx888jj
 -rw-r--r--    1 tlberglund  staff  1224 Jul 30 11:34 old-zshrc
 -rw-r--r--    1 tlberglund  staff  5255 Sep 21 14:15 pbcopy
 drwxr-xr-x    6 tlberglund  staff   204 Jul 26 15:32 poems
 drwxr-xr-x   18 tlberglund  staff   612 Oct 12 16:52 scripts
 drwxr-xr-x   28 tlberglund  staff   952 Oct  6 05:51 timberglund.com
 drwxr-xr-x   16 tlberglund  staff   544 Jul 26 18:46 workshops
-drwxr-xr-x    7 tlberglund  staff   238 Oct  6 02:43 zachberglund.com
+drwxr-xr-x    7 tlberglund  staff   238 Oct  6 02:43 strangepictures
