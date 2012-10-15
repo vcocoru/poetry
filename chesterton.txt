@@ -10,4 +10,5 @@ Where his aunts, who are not married, demand to be divorced!
 
 Haveth no cheese
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec nisi nec odio laoreet fringilla eu sit amet nibh. Praesent nunc turpis, malesuada varius cursus in, tincidunt vitae metus. In suscipit tincidunt orci vitae accumsan. Nunc pellentesque mauris posuere elit ultricies suscipit. Morbi vel mauris ipsum. Ut ante leo, consectetur quis egestas ut, condimentum a diam. Duis eleifend erat eu felis pulvinar consectetur. In hac habitasse platea dictumst. Ut blandit iaculis vestibulum. Aenean nibh justo, luctus ac fermentum ac, dapibus in leo.
+You might as well add some colour to the default text editor.
+The peoms look better in pink :)
